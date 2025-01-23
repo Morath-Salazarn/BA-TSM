@@ -1,2 +1,2 @@
-# WHfF_BTIN1
-Repo for Hacking Challenge
+# BA Bash Script-Projects
+Repo for BA Lessons
